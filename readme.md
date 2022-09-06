@@ -1,1 +1,1 @@
-[Amazon Clone](https://nidhimitra.github.io/amazonwebclone.github.io/)
+[Amazon Clone](https://nidhimitra.github.io/AmazonWebClone/)
